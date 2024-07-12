@@ -1,0 +1,28 @@
+{
+  "name": "socket-chat-demo",
+  "version": "1.0.0",
+  "description": "Chat app working with socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankal-27/socketIo.git"
+  },
+  "keywords": [
+    "socket",
+    "chat",
+    "nodejs"
+  ],
+  "author": "Manjunath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankal-27/socketIo/issues"
+  },
+  "homepage": "https://github.com/mankal-27/socketIo#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
